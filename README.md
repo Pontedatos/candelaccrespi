@@ -28,3 +28,9 @@ En este apartado creamos,a partir de los datos abiertos de la págin web del Ayu
 Aquí se utilizó API (Application Programming Interfaces) una interfaz que por medio de funciones o procedimientos ofrece ciertas bibliotecas de programación para que sea usadas por otro programa informático. En el caso de nuestra práctica, utilizamos API relacionada con datos del Covid19 en diferentes países.   
 - [API COVID 19 Pandas (ipynb)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-covid-pandas.ipynb)
 - [API COVID 19 Pandas (html)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-pandas-folium.html)
+### Práctica 4 
+La práctica 4 nos ha servido para poner en práctica los conocimientos aprendidos en el anterior ejercicio con el fin de **crear un notebook en JupyterHub con Python** pero esta vez eligiendo nosotras los temas desde bases de datos abiertas. En mi caso me he servido de los presentados por el [Ayuntamiento de Alcobendas en relación al padrón de la ciudad.](https://datos.alcobendas.org/dataset/poblacion-empadronados-totales-y-grupos-de-edad-y-sexo-historico). En concreto, para facilitar el análisis y la visualización de los datos se acotó el rango de años a 1998 (el rango total abarcaba desde 1998-2018). Las gráficas dibujadas tienen como eje de la X a los intervalos de grupo de edad y de entre los tres valores que se podían representar: hombres, mujeres y total, solo se dibujaron los dos primeros. 
+- [Analizando los datos abiertos del Ayuntamiento de Alcobendas: Población en ipynb](https://github.com/Pontedatos/candelaccrespi/blob/main/practica-4.ipynb) 
+- [Analizando los datos abiertos del Ayuntamiento de Alcobendas: Población en html](https://github.com/Pontedatos/candelaccrespi/blob/main/practica-4.html)
+- [Datos práctica 4 en csv](https://github.com/Pontedatos/candelaccrespi/blob/main/practica-4.csv.csv)
+-[Explicación Práctiva 4]
