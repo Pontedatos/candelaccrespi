@@ -15,10 +15,16 @@ El segundo comentario (practica-1-libre.md) era de libre elección con la condic
 Para esta segunda actividad teníamos que basarno en algún trabajo público de periodismo de datos, visualización de datos o infografías con el fin de **redactar una noticia propia** basada en los datos e iformaciones extraídas de dicha fuente. Mi artículo se basó en una [entrada del medio Newtral](https://www.newtral.es/datos-guerra-cifras-contradictorias-entre-rusia-ucrania/20220307/) sobre las cifras contradictorias del número de muertos aportadas por Rusia y Ucrania a lo largo del presente conflicto.
 Aprovehce los hipervínculos presentes en la noticia para acceder a una infografía creada por [Datawrapper](https://www.datawrapper.de/_/BkAc8/) en la que se recogían los datos de bajas sufridas por cada ejército según el Ministerio de Defensa de Ucrania y Swissinfo.
 ### Práctica 3
-- [Probando con R (ypnb)](https://github.com/Pontedatos/candelaccrespi/blob/main/probando-con-r.ipynb)
+En esta práctica entramos de lleno en el servido de Jupyter notebool a través de la plataforma de Jupyterhub en la que tenemos asociada una cuenta como alumnas de la UC3M. En ella hemos aprendido a utilizar herramientas de visualización de datos, librerías y funciones. En cada una de las partes **hemos creado una serie de cuadrenos que contienen los ejercicios complementados con comentarios explicativos** a través de los que se pueden apreciar nuestro proceso de aprendizaje. 
+#### Probando con R 
+En esta apartado de la prácitca utilizamos la herramienta R, un entorno y lenguaje de programación con un enfoque al análisis estadístico, utilizado en periodismo y visualización de datos.
+- [Probando con R (ipynb)](https://github.com/Pontedatos/candelaccrespi/blob/main/probando-con-r.ipynb)
 - [Probando con R (html)](https://github.com/Pontedatos/candelaccrespi/blob/main/probando-con-r.html) 
+#### Mapa de accidentes de tráfico en Zaragoza
+En este apartado creamos,a partir de los datos abiertos de la págin web del Ayuntamiento de Zaragoza un mapa en el que aparecen representados los accidentes de tráfico en la ciudad por medio de una librería folium. 
 - [API Pandas Folium (ipynb)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-pandas-folium.ipynb)
 - [API Pandas Folium (html)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-pandas-folium.html)
-- [API COVID 19 Pandas (html)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-pandas-folium.html)
+#### Uso de la API del Covid19 con Pandas
+Aquí se utilizó API (Application Programming Interfaces) una interfaz que por medio de funciones o procedimientos ofrece ciertas bibliotecas de programación para que sea usadas por otro programa informático. En el caso de nuestra práctica, utilizamos API relacionada con datos del Covid19 en diferentes países.   
 - [API COVID 19 Pandas (ipynb)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-covid-pandas.ipynb)
-
+- [API COVID 19 Pandas (html)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-pandas-folium.html)
