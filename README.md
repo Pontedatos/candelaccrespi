@@ -15,10 +15,10 @@ El segundo comentario (practica-1-libre.md) era de libre elección con la condic
 Para esta segunda actividad teníamos que basarno en algún trabajo público de periodismo de datos, visualización de datos o infografías con el fin de **redactar una noticia propia** basada en los datos e iformaciones extraídas de dicha fuente. Mi artículo se basó en una [entrada del medio Newtral](https://www.newtral.es/datos-guerra-cifras-contradictorias-entre-rusia-ucrania/20220307/) sobre las cifras contradictorias del número de muertos aportadas por Rusia y Ucrania a lo largo del presente conflicto.
 Aprovehce los hipervínculos presentes en la noticia para acceder a una infografía creada por [Datawrapper](https://www.datawrapper.de/_/BkAc8/) en la que se recogían los datos de bajas sufridas por cada ejército según el Ministerio de Defensa de Ucrania y Swissinfo.
 ### Práctica 3
-- [Probando con R (ypnb)](https://github.com/candelaccrespi/periodismo-de-datos-2/blob/main/probando-con-r.ipynb)
-- [Probando con R (html)](https://github.com/candelaccrespi/periodismo-de-datos-2/blob/main/pyhton-primeros-pasos.html) 
+- [Probando con R (ypnb)](https://github.com/Pontedatos/candelaccrespi/blob/main/probando-con-r.ipynb)
+- [Probando con R (html)](https://github.com/Pontedatos/candelaccrespi/blob/main/probando-con-r.html) 
 - [API Pandas Folium (ipynb)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-pandas-folium.ipynb)
 - [API Pandas Folium (html)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-pandas-folium.html)
-- [API COVID 19 Pandas (html)]
+- [API COVID 19 Pandas (html)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-pandas-folium.html)
 - [API COVID 19 Pandas (ipynb)](https://github.com/candelaccrespi/periodismo-de-datos-2/blob/main/pyhton-primeros-pasos.ipynb)
-- [API Pandas Folium (html)]
+
