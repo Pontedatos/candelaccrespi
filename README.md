@@ -20,5 +20,5 @@ Aprovehce los hipervínculos presentes en la noticia para acceder a una infograf
 - [API Pandas Folium (ipynb)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-pandas-folium.ipynb)
 - [API Pandas Folium (html)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-pandas-folium.html)
 - [API COVID 19 Pandas (html)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-pandas-folium.html)
-- [API COVID 19 Pandas (ipynb)](https://github.com/candelaccrespi/periodismo-de-datos-2/blob/main/pyhton-primeros-pasos.ipynb)
+- [API COVID 19 Pandas (ipynb)](https://github.com/Pontedatos/candelaccrespi/blob/main/api-covid-pandas.ipynb)
 
