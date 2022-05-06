@@ -11,3 +11,11 @@ Una vez vinculada que en la carpeta aparecen todas las prácticas realizadas a l
 - Para cargar el contenido del repositorio local al remoto usamos ´git push´. En algunos momentos, dependiendo de la circustancia, git push no es sufciiente, para eso existe la opción de ´git push -f´ que es la abreviatura de ´git push --force´. 
 - En el caso de haber realizado cambios en el repositorio remoto, en este apartado de GitHub, que no se han actualizado en nuestra carpeta local, y por lo tanto han quedado desacompasados, hemos de ejecutar el comando ´git pull´ para bajar los cambios y actualizarlos. 
 ## Readme.md
+A continuación hemos creado un documento de Readme.md nuevo a través de nano (editor de textos de la terminal) donde he explicado todo el proceso hasta ahora ejecutado con respecto a esta práctica final. A continuación detallaré el procedimiento para la creación de la página web a través de Github. 
+## Creación de una página web a través de Github 
+Para proceder a generar una página web a partir de nuestro repositorio en Github. Para ejecutar los pasos de manera correcta se han seguido las pautas estipuladas por el profesor en Aula Global. 
+La función de "Pages" de Github nos permite generar una página partir del contenido de un repositorio. Para acceder a ella se ha seguido la siguiente ruta ´Setting>Pages>Branch:"main", carpeta/(root)´. 
+Como diseño de la página se ha elegido como tema  *Slate theme*, que genera una página con encabezado negro y cuerpo blanco. Creo que presenta la información de manera clara. Es uno de los diseños más simples, lo cual a nivel personal me parece una ventaja estética.
+Se ha generado en este momento la URL que nos enlaza con nuestra página web: https://pontedatos.github.io/candelaccrespi/ 
+Al visualizar la página vemos que nuestro archivo README.md se han convertido por Github en index.html, es decir ha pasado de formato repositorio a formato página web.
+
