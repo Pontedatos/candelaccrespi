@@ -10,3 +10,4 @@ Una vez vinculada que en la carpeta aparecen todas las prácticas realizadas a l
 - Para sellar nuestros cambios es necesario utilizar ´git commit´. La opción mas utilizada del ´git commit´ es la de ´-m´ (mensaje) la cual [guardará las modificaciones junto con una breve descripción de los mismos entre comillas](https://www.freecodecamp.org/espanol/news/el-comando-git-commit-explicado/). 
 - Para cargar el contenido del repositorio local al remoto usamos ´git push´. En algunos momentos, dependiendo de la circustancia, git push no es sufciiente, para eso existe la opción de ´git push -f´ que es la abreviatura de ´git push --force´. 
 - En el caso de haber realizado cambios en el repositorio remoto, en este apartado de GitHub, que no se han actualizado en nuestra carpeta local, y por lo tanto han quedado desacompasados, hemos de ejecutar el comando ´git pull´ para bajar los cambios y actualizarlos. 
+## Readme.md
