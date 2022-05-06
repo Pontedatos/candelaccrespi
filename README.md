@@ -34,3 +34,5 @@ La práctica 4 nos ha servido para poner en práctica los conocimientos aprendid
 - [Analizando los datos abiertos del Ayuntamiento de Alcobendas: Población en html](https://github.com/Pontedatos/candelaccrespi/blob/main/practica-4.html)
 - [Datos práctica 4 en csv](https://github.com/Pontedatos/candelaccrespi/blob/main/practica-4.csv.csv)
 -[Explicación Práctiva 4](https://github.com/Pontedatos/candelaccrespi/blob/main/practica-4.md)
+### Anexo:: Práctica Final
+En el siguiente archivo .md se encuentra la explicación de la última práctica de la asignatura de Periodismo de Datos. En ella hemos creado un página web donde se recogen todos los trabajos realizados a lo largo del cuatrimestre en formato index.html
