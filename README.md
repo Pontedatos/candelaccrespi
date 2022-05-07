@@ -37,3 +37,4 @@ La práctica 4 nos ha servido para poner en práctica los conocimientos aprendid
 ### Anexo:: Práctica Final
 En el siguiente archivo .md se encuentra la explicación de la última práctica de la asignatura de Periodismo de Datos. En ella hemos creado un página web donde se recogen todos los trabajos realizados a lo largo del cuatrimestre en formato index.html
 - [Metodologías de la Práctica Final](https://github.com/Pontedatos/candelaccrespi/blob/main/metodologias.md)
+- [Resumen de lo aprendido en el curso](https://github.com/Pontedatos/candelaccrespi/blob/main/resumen-del-curso.md)
