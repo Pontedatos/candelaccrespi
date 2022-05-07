@@ -24,9 +24,9 @@ Una vez permitido el acceso **clone mi repositorio de Github en esta carpeta** c
 ### Github
 
 Una vez permitido el acceso de la terminal a mi carpeta de la asignatura  **cloné mi repositorio de GiHhub en ella a tavés de la terminal  para que estuvieran vinculadas**.
-Lo primero que tenemos que hacer es conocer la ruta en la que estamos situados por medio del comando `pwd`. A mi siempre me imprime mi ruta de inicio que coincide con mi nombre de usuario del ordenador: Candela Crespi. Pero yo donde quiero estar es en mi carpeta de "periodismo de datos" a la que me traslado por medio del comando `cd`. La ruta es la siguiente `Desktop>Universidad>5º/curso>Periodismo de datos>periodismo-de-datos-2`. 
+Lo primero que tenemos que hacer es conocer la ruta en la que estamos situados por medio del comando `pwd`. A mi siempre me imprime mi ruta de inicio que coincide con mi nombre de usuario del ordenador: Candela Crespi. Pero yo donde quiero estar es en mi carpeta de "periodismo de datos" a la que me traslado por medio del comando `cd`. La ruta es la siguiente Desktop>Universidad>5º/curso>Periodismo de datos>periodismo-de-datos-2. 
 Una vez nos encontremos en la careta correcta, copiamos el enlace de nuestro repositorio y volvemos a la terminal donde los clonamos por medio de la función `git clone` En mi caso: https://github.com/candelaccrespi/periodismo-de-datos-2.git 
-Antes de nada, tenemos que configurar nuestro usuario de GitHub en la terminal para vincular los cambios. Para ello, tenemos que escribir `git config --global user.name nuestrousuario`, y luego `git config --global user.email correogithub`. En mi caso: `git config --global user.name candelaccrespi` y `git config --global user.email 100386117@alumnos.uc3m.es`, con el correo de la universidad.
+Antes de nada, tenemos que configurar nuestro usuario de GitHub en la terminal para vincular los cambios. Para ello, tenemos que escribir `git config --global user.name nuestrousuario`, y luego `git config --global user.email` correogithub. En mi caso: git config --global user.name candelaccrespi y git config --global user.email 100386117@alumnos.uc3m.es, con el correo de la universidad.
 Para vincular correctamente la terminal con GitBash se me pidió mi nombre de usuario en la plataf>
 Una vez vinculada la terminal con GitHub y viceversa pudimos empezar a hacer nuestras prácticas y trasladarlas a GitHub. A contonuación expondré una serie de comandos por los que actualziaba y acompasaba el trabajo ejecutado en la terminal/GitBash.
 
@@ -44,8 +44,8 @@ Para obtener nano  hice  en la terminal `brew install nano`.
 ### Versión del lenguaje Shell utilizado 
 
 El `Shell` del sistema operativo es [la capa más externa del mismo. Incorporan un lenguaje de programación para controlar procesos y archivos, además de iniciar y controlar otros programas](https://www.ibm.com/docs/es/aix/7.2?topic=administration-operating-system-shells). Son un método para comunicarse con el sistema operativo. 
-También se conoce como intérprete de órdenes o intérprete de comandos. Mac de forma predeterminada usa `zsh` como Shell predeterminado para todos los nuevos usuarios a través de la versión macOS Catalina. Para actualizarlo (podría haber utilizado zsh o `bash) utilicé el comando de `chsh -s /bin/zsh.
-Utilicé el comando `echo`(a partir de él la terminal nos devuelve un texto): `echo $SHELL:` a lo que me devolvió `/bin/zsh. La versión concreta del Shell la averigaverigüé por medio del comando 
+También se conoce como intérprete de órdenes o intérprete de comandos. Mac de forma predeterminada usa `zsh` como Shell predeterminado para todos los nuevos usuarios a través de la versión macOS Catalina. Para actualizarlo (podría haber utilizado zsh o `bash`) utilicé el comando de `chsh -s /bin/zsh`.
+Utilicé el comando `echo`(a partir de él la terminal nos devuelve un texto): `echo $SHELL:` a lo que me devolvió `/bin/zsh`. La versión concreta del Shell la averigaverigüé por medio del comando 
 `$SHELL –versión`, que da zsh 5.8 (x86_64-apple-darwin21.0).
 
 ### Valor de la variable de entorno PATH.
@@ -68,5 +68,5 @@ Además de los comandos previamente explicados (todos los relacionados con git +
 - ` envía la salida del comando que le precede a donde se le marque
 - `>>` lo envía al final en el caso de que exista y si no es así lo crea
 - `nano`: abrimos el editor de textos. Como estamos trabajando con lenguaje **Markdown**, este editori de textos  abre archivo de readme en formato `md`
-- ``env`: vemos todas las variables del entorno
+- `env`: vemos todas las variables del entorno
 
