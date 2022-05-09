@@ -4,7 +4,7 @@
 #### Práctica 1
 En esta primera actividad tomamos contacto con el mundo de GitHub, nos creamos nuestro perfil y el repositorio al que iríamos subiendo las prácticas durante el cuatrimestre. Además, también empezamos un README.md donde hemos ido explicando el desarrollo y la lógica de cada una de las prácticas. 
 La primera tarea se trata de un doble comentario escrito en lenguaje Markdown: 
-- [TRESCA](https://github.com/candelaccrespi/periodismo-de-datos-2/blob/main/practica-1-libre.md)
+- [TRESCA](practica-1-tresca.md)
 - [Noticia libre](https://github.com/candelaccrespi/periodismo-de-datos-2/blob/main/practica-1-libre.md) 
 
 En la primera (practica-1-tresca.md) debíamos comentar el artículo del Blog de [Tresca Project](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/). Se trata de un proyecto de ámbito europeo que tiene como objetivo fortalecer la credibilidad de la comunicación científica que lleva años en decadencia. Desde este grupo se quiere generar un impacto positivo a largo plazo por medio [de la participación y capacitación de científicos, legisladores y la comunidad lectora del medio](https://trescaproject.eu/about/).
